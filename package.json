@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "description": "Deterministic speech-to-inventory core: provider-neutral ASR interfaces, a spoken count grammar, fuzzy item matching, confidence scoring, and patch-in-place XLSX export.",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "demo": "tsx src/demo/run.ts",
     "test": "vitest run",

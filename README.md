@@ -232,5 +232,8 @@ production-hardened. Full statement: [docs/ai-assistance.md](docs/ai-assistance.
 
 ## License
 
-MIT. All source here is original to this project; runtime and development
-dependencies are MIT / Apache-2.0 / ISC / BSD / MPL-2.0 and compatible.
+**[PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0)** — source-available, not open source.
+
+Read it, run it, fork it, learn from it, and use it for research, study, teaching, or any other noncommercial purpose. **Commercial use is not granted.** This is a working extraction of a system I may commercialize, so those rights are reserved; if you want a commercial license, ask me.
+
+All source here is original to this project. Runtime and development dependencies are MIT / Apache-2.0 / ISC / BSD / MPL-2.0 and impose no conflicting obligations.
