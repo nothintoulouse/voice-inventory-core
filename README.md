@@ -1,5 +1,16 @@
 # voice-inventory-core
 
+## Status
+
+This is a frozen showcase, not a maintained library.
+
+- **Snapshot, not a live sync.** Extracted and sanitized from a private production codebase on 2026-07-21 (see [docs/sanitization.md](docs/sanitization.md)) and never touched since. It reflects that codebase as it existed on that date only.
+- **Not the canonical source.** The private product this was extracted from is the actively developed, canonical codebase. This public repo is a one-time, one-directional demonstration snapshot — nothing here flows back into it, and it is not kept in sync going forward.
+- **Not maintained as a library.** No ongoing releases, no issue triage, no compatibility guarantees across commits. Treat anything here as a point-in-time reference, not a dependency to build on.
+- **Licensing.** PolyForm Noncommercial 1.0.0 — see [License](#license) below for the full terms.
+
+---
+
 **Speech is probabilistic. Inventory counts are not.** This is the part of a
 voice-driven inventory system that sits on the deterministic side of that line:
 a spoken count grammar, provider-neutral transcription interfaces, fuzzy item
